@@ -7,7 +7,7 @@ module FancyDance
     end
 
     def jump
-      "Look how high I'm jumping"
+      "Look how high I'm jumping!"
     end
 
     def pirouette
